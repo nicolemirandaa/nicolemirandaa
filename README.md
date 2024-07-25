@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**nicolemirandaa/nicolemirandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nicole Miranda
+- Estou estudando na [Alura](https://www.alura.com.br/)
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+- . “A tecnologia é uma palavra que descreve alguma coisa que ainda não funciona.”
+Douglas Adams 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📧
+00001104901171sp@al.educacao.sp.gov.br
+
+
+
+![image](https://github.com/user-attachments/assets/2588c305-5c2a-4fa0-a68c-810944880dd9)
